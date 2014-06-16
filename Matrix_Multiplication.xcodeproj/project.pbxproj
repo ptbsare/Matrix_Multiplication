@@ -28,6 +28,8 @@
 		433FD5321940A27400E86DE6 /* Matrix_Multiplication */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Matrix_Multiplication; sourceTree = BUILT_PRODUCTS_DIR; };
 		433FD5351940A27400E86DE6 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 		433FD5371940A27400E86DE6 /* Matrix_Multiplication.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Matrix_Multiplication.1; sourceTree = "<group>"; };
+		433FD53E1940A37A00E86DE6 /* header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = header.h; sourceTree = "<group>"; };
+		433FD5411940ACA700E86DE6 /* functions.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = functions.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,8 @@
 			children = (
 				433FD5351940A27400E86DE6 /* main.c */,
 				433FD5371940A27400E86DE6 /* Matrix_Multiplication.1 */,
+				433FD53E1940A37A00E86DE6 /* header.h */,
+				433FD5411940ACA700E86DE6 /* functions.c */,
 			);
 			path = Matrix_Multiplication;
 			sourceTree = "<group>";
